@@ -9,7 +9,7 @@
 <body>
 
 <h1>Restaurant Chatbot</h1>
-<img width="960" alt="yt_clone" src="https://github.com/subhagittu/Restaurant-Chatbot/blob/4e3194e0fad994fd0fd036744aaeee564978fe61/Screenshot%202024-05-26%20150551.png">
+<img width="960" alt="yt_clone" src="https://github.com/subhagittu/PowerBi_Project_1/blob/main/Netflix.png">
 <p>This project is a restaurant chatbot built using FastAPI and Dialogflow. It handles various functionalities such as adding items to an order, removing items from an order, completing an order, and tracking an order status. The chatbot interacts with a MySQL database to store and retrieve order information.</p>
 
 <h2>Project Structure</h2>
