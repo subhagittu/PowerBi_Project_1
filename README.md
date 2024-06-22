@@ -7,58 +7,26 @@
     
 </head>
 <body>
+<p>In the fast-paced world of e-commerce, businesses generate massive amounts of data daily. Analyzing this data can provide critical insights into customer behavior, sales trends, and inventory management. PowerBI, a powerful business analytics tool, enables organizations to visualize their data through interactive dashboards, making it easier to derive actionable insights. This report details the process of analyzing e-commerce sales data and creating an interactive dashboard using PowerBI.</p>
 
-<h1>Restaurant Chatbot</h1>
+<h1>Netflix Dashboard</h1>
 <img width="960" alt="yt_clone" src="https://github.com/subhagittu/PowerBi_Project_1/blob/main/Netflix.png">
-<p>This project is a restaurant chatbot built using FastAPI and Dialogflow. It handles various functionalities such as adding items to an order, removing items from an order, completing an order, and tracking an order status. The chatbot interacts with a MySQL database to store and retrieve order information.</p>
-
-<h2>Project Structure</h2>
+<p>Here we have analyzed the database and extracted several conclusions on the basis of varoius graphs - <br>
 <ul>
-    <li><strong>main.py:</strong> The main FastAPI application that handles incoming requests and routes them to the appropriate intent handlers.</li>
-    <li><strong>generic_helper.py:</strong> A helper module containing utility functions for string manipulations and session ID extraction.</li>
-    <li><strong>db_helper.py:</strong> A database helper module for interacting with the MySQL database, including functions for inserting order items, tracking orders, and fetching order details.</li>
-</ul>
+    <li><code>View Rating</code> </li>
+    <li><code>Awards Recived by shows</code> </li>
+    <li><code>Show Duration</code> </li>
+    <li><code>Yearly Release</code> </li>
+    <li><code>List of Shows</code> </li>
+    <li><code>Genre</code> </li>
+    <li><code>IBDB Score</code> </li>
+    <li><code>Total Shows</code> </li>
+    <li><code>Movies net with percentage</code> </li>
+    <li><code>Series net with percentage</code> </li>
+    </ul>
+</p>
 
-<h2>Dependencies</h2>
-<p>To run this project, you need the following dependencies:</p>
-<ul>
-    <li>FastAPI</li>
-    <li>Uvicorn</li>
-    <li>mysql-connector-python</li>
-</ul>
-<img width="960" alt="yt_clone" src="https://github.com/subhagittu/Restaurant-Chatbot/blob/6064a2164903fbdc21ac049cd34c4a3981f2b214/Screenshot%202024-05-26%20152401.png">
-<h2>Installation</h2>
-<ol>
-    <li>Clone the repository:</li>
-    <pre><code>git clone &lt;repository-url&gt;</code></pre>
-    <li>Navigate to the project directory:</li>
-    <pre><code>cd &lt;project-directory&gt;</code></pre>
-    <li>Install the required dependencies:</li>
-    <pre><code>pip install -r requirements.txt</code></pre>
-    <li>Ensure MySQL is installed and running, and update the database connection details in <code>db_helper.py</code>:</li>
-    <pre><code>cnx = mysql.connector.connect(
-    host="localhost",
-    user="root",
-    password="your_password",
-    database="your_database"
-)</code></pre>
-</ol>
 
-<h2>Usage</h2>
-<ol>
-    <li>Start the FastAPI server:</li>
-    <pre><code>uvicorn main:app --reload</code></pre>
-    <li>Integrate the webhook URL with your Dialogflow agent.</li>
-    <li>Interact with the chatbot through the Dialogflow interface or any integrated platform (e.g., Google Assistant).</li>
-</ol>
-
-<h2>Intent Handlers</h2>
-<ul>
-    <li><strong>add_to_order:</strong> Adds specified food items and quantities to the current order.</li>
-    <li><strong>remove_from_order:</strong> Removes specified food items from the current order.</li>
-    <li><strong>complete_order:</strong> Completes the current order, saves it to the database, and provides the order total and ID.</li>
-    <li><strong>track_order:</strong> Tracks the status of a given order ID.</li>
-</ul>
 
 <h2>Database Procedures</h2>
 <p>The MySQL database includes the following stored procedures:</p>
