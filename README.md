@@ -47,18 +47,18 @@
 
 <h1>Hotstar Dashboard</h1>
 <img width="960" alt="yt_clone" src="https://github.com/subhagittu/PowerBi_Project_1/blob/main/hotstar.png">
-<p>Here we have analyzed the database and extracted several conclusions on the basis of varoius graphs - <br>
+<p>Here we have analyzed the Hotstar database and extracted several visual graphs like : <br>
 <ul>
-    <li><code>View Rating</code> </li>
-    <li><code>Awards Recived by shows</code> </li>
-    <li><code>Show Duration</code> </li>
-    <li><code>Yearly Release</code> </li>
-    <li><code>List of Shows</code> </li>
-    <li><code>Genre</code> </li>
-    <li><code>IBDB Score</code> </li>
-    <li><code>Total Shows</code> </li>
-    <li><code>Movies net with percentage</code> </li>
-    <li><code>Series net with percentage</code> </li>
+    <li><code>View Rating: </code> Viewer ratings indicating customer satisfaction and engagement.</li>
+    <li><code>Duration: </code>    Length of shows, impacting viewer retention and completion rates</li>
+    <li><code>List of shows: </code>     Comprehensive catalog of all available shows on the platform</li>
+    <li><code>About shows: </code>    Detailed information and descriptions of each show </li>
+    <li><code>List of Directors: </code>    Names and profiles of directors associated with the shows</li>
+    <li><code>Genre: </code>    Classification of shows into different genres for better understanding of preferences</li>
+    <li><code>IBDB Score: </code>   External ratings from IMDb reflecting the quality of shows</li>
+    <li><code>Total Shows: </code>   Overall count of shows available on the platform</li>
+    <li><code>Movies net with percentage: </code>   Proportion and count of movies in the total content library</li>
+    <li><code>Series net with percentage: </code>   Proportion and count of series in the total content library</li>
     </ul>
 </p>
 
