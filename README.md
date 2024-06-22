@@ -7,7 +7,7 @@
     
 </head>
 <body>
-<p>In the fast-paced world of e-commerce, businesses generate massive amounts of data daily. Analyzing this data can provide critical insights into customer behavior, sales trends, and inventory management. PowerBI, a powerful business analytics tool, enables organizations to visualize their data through interactive dashboards, making it easier to derive actionable insights. This report details the process of analyzing e-commerce sales data and creating an interactive dashboard using PowerBI.</p>
+<p>In the competitive world of online streaming, platforms like Netflix generate vast amounts of data on their content and user interactions. Analyzing this data is crucial for understanding viewer preferences, content performance, and overall platform success. Using PowerBI, we have created an interactive dashboard that provides comprehensive insights into various aspects of the movies platform. This report outlines the key metrics used, the data analysis process, and the features of the interactive dashboard.</p>
 
 <h1>Netflix Dashboard</h1>
 <img width="960" alt="yt_clone" src="https://github.com/subhagittu/PowerBi_Project_1/blob/main/Netflix.png">
