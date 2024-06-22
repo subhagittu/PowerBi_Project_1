@@ -13,7 +13,7 @@
 <img width="960" alt="yt_clone" src="https://github.com/subhagittu/PowerBi_Project_1/blob/main/Netflix.png">
 <p>Here we have analyzed the database and extracted several visual graphs like :<br>
 <ul>
-    <li><code>View Rating: </code>      Viewer ratings for movies and shows, reflecting audience satisfaction and engagement.<b>Legend</b>View Rating,<b>Values</b>Count of title </li>
+    <li><code>View Rating: </code>      Viewer ratings for movies and shows, reflecting audience satisfaction and engagement.<b>Legend: </b>View Rating,<b>Values: </b>Count of title </li>
     <li><code>Awards Recived by shows: </code>  Recognition in the form of awards, highlighting critically acclaimed content </li>
     <li><code>Show Duration: </code>  Length of shows, which can influence viewer retention and completion rates </li>
     <li><code>Yearly Release: </code>  Trends in content release over the years, helping to identify growth and changes in content strategy.</li>
