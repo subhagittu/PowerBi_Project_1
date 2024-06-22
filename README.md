@@ -1,4 +1,4 @@
-# Analyzed ecommerce sales data creating an interactive dashboard using powerbi
+# Analyzed ott platform data for various shows and movies, creating an interactive dashboard using powerbi
 <!DOCTYPE html>
 <html lang="en">
 <head>
