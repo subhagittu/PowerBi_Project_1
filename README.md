@@ -11,7 +11,7 @@
 
 <h1>Netflix Dashboard</h1>
 <img width="960" alt="yt_clone" src="https://github.com/subhagittu/PowerBi_Project_1/blob/main/Netflix.png">
-<p>Here we have analyzed the database and extracted several conclusions on the basis of varoius graphs - <br>
+<p>Here we have analyzed the database and extracted several visual graphs like :<br>
 <ul>
     <li><code>View Rating: </code>      Viewer ratings for movies and shows, reflecting audience satisfaction and engagement </li>
     <li><code>Awards Recived by shows: </code>  Recognition in the form of awards, highlighting critically acclaimed content </li>
@@ -30,13 +30,13 @@
 
 <h1>Amazon Dashboard</h1>
 <img width="960" alt="yt_clone" src="https://github.com/subhagittu/PowerBi_Project_1/blob/main/Amazon.png">
-<p>Here we have analyzed the database and extracted several conclusions on the basis of varoius graphs - <br>
+<p>Here we have analyzed the Amazon database and extracted several visual graphs like : <br>
 <ul>
     <li><code>View Rating</code> </li>
-    <li><code>Awards Recived by shows</code> </li>
-    <li><code>Show Duration</code> </li>
-    <li><code>Yearly Release</code> </li>
-    <li><code>List of Shows</code> </li>
+    <li><code>Duration</code> </li>
+    <li><code>List of shows</code> </li>
+    <li><code>About shows</code> </li>
+    <li><code>List of Directors</code> </li>
     <li><code>Genre</code> </li>
     <li><code>IBDB Score</code> </li>
     <li><code>Total Shows</code> </li>
