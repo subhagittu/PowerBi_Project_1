@@ -14,7 +14,7 @@
 <p>Here we have analyzed the database and extracted several visual graphs like :<br>
 <ul>
     <li><code>View Rating: </code>      Viewer ratings for movies and shows, reflecting audience satisfaction and engagement.<b>Legend: </b>View Rating,<b>Values: </b>Count of title </li>
-    <li><code>Awards Recived by shows: </code>  Recognition in the form of awards, highlighting critically acclaimed content </li>
+    <li><code>Awards Recived by shows: </code>  Recognition in the form of awards, highlighting critically acclaimed content. <b>X-axis: </b> Netflix Release Year,<b>Y-axis: </b>Awards Recieved<b>Legend: </b>View Rating,<b>Values: </b>Count of title</li>
     <li><code>Show Duration: </code>  Length of shows, which can influence viewer retention and completion rates </li>
     <li><code>Yearly Release: </code>  Trends in content release over the years, helping to identify growth and changes in content strategy.</li>
     <li><code>List of Shows: </code>  A comprehensive catalog of available shows, enabling detailed analysis of the content library.</li>
