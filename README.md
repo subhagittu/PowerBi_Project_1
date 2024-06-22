@@ -28,17 +28,39 @@
 
 
 
-<h2>Database Procedures</h2>
-<p>The MySQL database includes the following stored procedures:</p>
+<h1>Amazon Dashboard</h1>
+<img width="960" alt="yt_clone" src="https://github.com/subhagittu/PowerBi_Project_1/blob/main/Amazon.png">
+<p>Here we have analyzed the database and extracted several conclusions on the basis of varoius graphs - <br>
 <ul>
-    <li><code>insert_order_item(food_item, quantity, order_id):</code> Inserts an item into the order.</li>
-    <li><code>insert_order_tracking(order_id, status):</code> Inserts an order status into the tracking table.</li>
-    <li><code>get_total_order_price(order_id):</code> Returns the total price for the specified order.</li>
-    <li><code>get_order_status(order_id):</code> Returns the status of the specified order.</li>
-</ul>
+    <li><code>View Rating</code> </li>
+    <li><code>Awards Recived by shows</code> </li>
+    <li><code>Show Duration</code> </li>
+    <li><code>Yearly Release</code> </li>
+    <li><code>List of Shows</code> </li>
+    <li><code>Genre</code> </li>
+    <li><code>IBDB Score</code> </li>
+    <li><code>Total Shows</code> </li>
+    <li><code>Movies net with percentage</code> </li>
+    <li><code>Series net with percentage</code> </li>
+    </ul>
+</p>
 
-<h2>Deployment</h2>
-<p>This project is successfully working and has been integrated on an html web page</p>
+<h1>Hotstar Dashboard</h1>
+<img width="960" alt="yt_clone" src="https://github.com/subhagittu/PowerBi_Project_1/blob/main/hotstar.png">
+<p>Here we have analyzed the database and extracted several conclusions on the basis of varoius graphs - <br>
+<ul>
+    <li><code>View Rating</code> </li>
+    <li><code>Awards Recived by shows</code> </li>
+    <li><code>Show Duration</code> </li>
+    <li><code>Yearly Release</code> </li>
+    <li><code>List of Shows</code> </li>
+    <li><code>Genre</code> </li>
+    <li><code>IBDB Score</code> </li>
+    <li><code>Total Shows</code> </li>
+    <li><code>Movies net with percentage</code> </li>
+    <li><code>Series net with percentage</code> </li>
+    </ul>
+</p>
 
 </body>
 </html>
