@@ -15,9 +15,9 @@
 <ul>
     <li><code>View Rating: </code>      Viewer ratings for movies and shows, reflecting audience satisfaction and engagement.<b>Legend: </b>View Rating,<b>Values: </b>Count of title </li>
     <li><code>Awards Recived by shows: </code>  Recognition in the form of awards, highlighting critically acclaimed content. <b>X-axis: </b> Netflix Release Year,<b>Y-axis: </b>Awards Recieved<b>Legend: </b>View Rating,<b>Values: </b>Count of title</li>
-    <li><code>Show Duration: </code>  Length of shows, which can influence viewer retention and completion rates </li>
-    <li><code>Yearly Release: </code>  Trends in content release over the years, helping to identify growth and changes in content strategy.</li>
-    <li><code>List of Shows: </code>  A comprehensive catalog of available shows, enabling detailed analysis of the content library.</li>
+    <li><code>Show Duration: </code>  Length of shows, which can influence viewer retention and completion rates <b>Legend: </b>Run Time, <b>Values: </b> Count of title</li>
+    <li><code>Yearly Release: </code>  Trends in content release over the years, helping to identify growth and changes in content strategy.<b>X-axis: </b> Netflix Release Year,<b>Y-axis: </b> Count of Title <b>Legend: </b> Series or Movie </li>
+    <li><code>List of Shows: </code>  A comprehensive catalog of available shows, enabling detailed analysis of the content library.<b>Field: </b> Title</li>
     <li><code>Genre: </code>  Classification of shows into genres, aiding in the understanding of genre popularity and viewer preferences. </li>
     <li><code>IBDB Score: </code>  External ratings from IMDb, providing an additional perspective on content quality </li>
     <li><code>Total Shows: </code>  The overall count of shows available on the platform </li>
