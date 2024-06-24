@@ -32,16 +32,16 @@
 <img width="960" alt="yt_clone" src="https://github.com/subhagittu/PowerBi_Project_1/blob/main/Amazon.png">
 <p>Here we have analyzed the Amazon database and extracted several visual graphs like : <br>
 <ul>
-    <li><code>View Rating: </code> Viewer ratings indicating customer satisfaction and engagement.<br><b> Field: </b> Rating Net</li>
-    <li><code>Duration: </code>    Length of shows, impacting viewer retention and completion rates</li>
-    <li><code>List of shows: </code>     Comprehensive catalog of all available shows on the platform</li>
-    <li><code>About shows: </code>    Detailed information and descriptions of each show </li>
-    <li><code>List of Directors: </code>    Names and profiles of directors associated with the shows</li>
-    <li><code>Genre: </code>    Classification of shows into different genres for better understanding of preferences</li>
-    <li><code>IBDB Score: </code>   External ratings from IMDb reflecting the quality of shows</li>
-    <li><code>Total Shows: </code>   Overall count of shows available on the platform</li>
-    <li><code>Movies net with percentage: </code>   Proportion and count of movies in the total content library</li>
-    <li><code>Series net with percentage: </code>   Proportion and count of series in the total content library</li>
+    <li><code>View Rating: </code> Viewer ratings indicating customer satisfaction and engagement.<br><b> Field: </b> Rating</li>
+    <li><code>Duration: </code>    Length of shows, impacting viewer retention and completion rates.<br><b> Field: </b> Duration</li>
+    <li><code>List of shows: </code>     Comprehensive catalog of all available shows on the platform.<br><b> Field: </b> Title</li>
+    <li><code>About shows: </code>    Detailed information and descriptions of each show.<br><b> Field: </b> Listed_in </li>
+    <li><code>List of Directors: </code>    Names and profiles of directors associated with the shows.<br><b> Field: </b> Director </li>
+    <li><code>Genre: </code>    Classification of shows into different genres for better understanding of preferences.<br><b> Field: </b> Listed_in </li>
+    <li><code>IBDB Score: </code>   External ratings from IMDb reflecting the quality of shows.<br><b> Field: </b> IBDb Score</li>
+    <li><code>Total Shows: </code>   Overall count of shows available on the platform.<br><b> Field: </b> Shows Prime</li>
+    <li><code>Movies net with percentage: </code>   Proportion and count of movies in the total content library.<br><b>Field: </b> Movies Net </li>
+    <li><code>Series net with percentage: </code>   Proportion and count of series in the total content library.<br><b>Field: </b> Series Net </li>
     </ul>
 </p>
 
