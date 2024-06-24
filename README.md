@@ -32,7 +32,7 @@
 <img width="960" alt="yt_clone" src="https://github.com/subhagittu/PowerBi_Project_1/blob/main/Amazon.png">
 <p>Here we have analyzed the Amazon database and extracted several visual graphs like : <br>
 <ul>
-    <li><code>View Rating: </code> Viewer ratings indicating customer satisfaction and engagement.</li>
+    <li><code>View Rating: </code> Viewer ratings indicating customer satisfaction and engagement.<br><b> Field: </b> Rating Net</li>
     <li><code>Duration: </code>    Length of shows, impacting viewer retention and completion rates</li>
     <li><code>List of shows: </code>     Comprehensive catalog of all available shows on the platform</li>
     <li><code>About shows: </code>    Detailed information and descriptions of each show </li>
